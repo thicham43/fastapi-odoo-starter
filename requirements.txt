@@ -1,0 +1,5 @@
+fastapi==0.70.0
+pydantic==1.8.2
+starlette==0.16.0
+uvicorn==0.15.0
+-e C:\\Dev\\python_code\\Odoo15
